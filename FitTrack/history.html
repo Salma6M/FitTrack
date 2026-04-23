@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FitTrack - History</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <nav>
+        <div class="logo">FitTrack</div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="log.html">Log Workout</a></li>
+            <li><a href="history.html">History</a></li>
+            <li><a href="exercises.html">Exercises</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+    <div class="container wide">
+        <h2>Workout History</h2>
+        <table id="workoutTable">
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Exercise</th>
+                    <th>Sets</th>
+                    <th>Reps</th>
+                    <th>Duration</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="workoutBody">
+                <tr><td colspan="6">Loading...</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
