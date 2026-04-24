@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Push Up",
+    "category": "Chest",
+    "tip": "Keep your body straight and lower your chest to the ground slowly."
+  },
+  {
+    "name": "Squat",
+    "category": "Legs",
+    "tip": "Keep your back straight and push your knees outward as you go down."
+  },
+  {
+    "name": "Plank",
+    "category": "Core",
+    "tip": "Keep your hips level and breathe steadily. Hold as long as you can."
+  },
+  {
+    "name": "Pull Up",
+    "category": "Back",
+    "tip": "Grip the bar shoulder-width apart and pull until your chin is above the bar."
+  },
+  {
+    "name": "Lunges",
+    "category": "Legs",
+    "tip": "Step forward and lower your back knee close to the ground. Keep your chest up."
+  },
+  {
+    "name": "Bicep Curl",
+    "category": "Arms",
+    "tip": "Keep your elbows close to your body and curl slowly for better results."
+  },
+  {
+    "name": "Burpee",
+    "category": "Full Body",
+    "tip": "Move fast but stay controlled. Great for cardio and strength together."
+  },
+  {
+    "name": "Mountain Climber",
+    "category": "Core",
+    "tip": "Keep your hips down and drive your knees toward your chest quickly."
+  }
+]
